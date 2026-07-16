@@ -1,4 +1,4 @@
-# German Electricity Demand Forecasting
+# Evaluating Forecasting Models for German Electricity Demand
 
 ## Project Overview
 
